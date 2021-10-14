@@ -1,0 +1,56 @@
+.Title{
+	font-weight:bold;
+}
+
+body{
+	font-size:20px;
+	background-color:#F0F8FF;
+	margin-left: 250px;
+}
+.Menu{
+   background-color: #002385;
+    margin-top: -10px;
+    position: fixed; 
+    align-items: center;
+    width: 200px;
+    height: calc(110% - 100px); 
+	color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none; 
+    display: block; 
+    font-size: 30px;
+	margin-bottom: 30%;
+	margin-left: -250px;
+}
+.Button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block; 
+	background-color: #4169e1;
+	color: White; 
+	text-decoration: none;
+}
+.Text{
+	margin-top: 3%;
+}
+.Homepage{
+	margin-top: -49px;
+	margin-right: 60%;
+	margin-left: -60%;
+	background-color: #002366;
+	position: fixed;
+    text-align: center;
+    width: 200%;
+	color: White;
+}
+.CSS_Validators{
+	margin-top: -2.7%;
+	padding-left: 90%;
+
+	
+}
+.HTML_Validators{
+	margin-top: 0%;
+	margin-left: 85%
+}

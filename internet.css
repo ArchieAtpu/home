@@ -1,0 +1,77 @@
+.Title{
+	font-weight:bold;
+}
+
+body{
+	font-size:25px;
+	margin-left:0%;
+	background-color:#F0F8FF; 
+}
+
+.Browsers{
+	margin-bottom:1%;
+}
+.Homepage{
+	margin-top: -0.5%;
+	margin-right: 50%;
+	margin-left: -50%;
+	background-color: #002366;
+    text-align: center;
+	position: fixed;
+    width: 200%;
+    height: 10%;
+	color: White;
+}
+.Menu{
+   background-color: #002385;
+    margin-top: 84px;
+    position: fixed; 
+    align-items: center;
+    width: 200px;
+    height: calc(100% - 100px); 
+	color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none; 
+    display: block; 
+    font-size: 30px;
+	margin-bottom: 20%;
+}
+.Button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block; 
+	background-color: #4169e1;
+	color: White; 
+	text-decoration: none;
+}
+.Text{
+	padding-top: 60px;
+	padding-left: 250px;
+	font-size: 20px;
+	font-family: Tisa, "Times New Roman", Arial;
+}
+.Image{
+	padding-top:15px;
+	padding-left: 270px;
+	display: inline-block;
+}
+.Citations{
+	margin-top: 250px;
+	padding-left: 0%;
+	margin-left: -18.8%;
+	vertical-align: super; /* superscript */font-size: 0.7em;
+	display: inline-block;
+	position: fixed;
+}
+
+.CSS_Validators{
+	margin-top: 20px;
+	padding-left: 95%;
+	position: fixed;
+}
+.HTML_Validators{
+	position: fixed;
+	margin-top: 20px;
+	padding-left: 90%;
+}

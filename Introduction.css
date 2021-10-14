@@ -1,0 +1,62 @@
+.Title{
+	font-weight:bold;
+}
+
+body{
+	font-size:25px;
+	background-color:#F0F8FF;
+	margin-left: 250px;
+}
+/*Used to create the Side Bar*/
+.Menu{
+   background-color: #002385;
+    margin-top: 93px;
+    position: fixed; 
+    align-items: center;
+    width: 200px;
+    height: calc(100% - 100px); 
+	color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none; 
+    display: block; 
+    font-size: 30px;
+	margin-bottom: 20%;
+	margin-left: -250px;
+}
+/*Used to make each button on the Side Bar look more realistic and clickable*/
+.Button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block; 
+	background-color: #4169e1;
+	color: White; 
+	text-decoration: none;
+}
+/*Used to coordinate each Text that uses this attribute*/
+.Text{
+	padding-top: 4%;
+}
+/*Used to create the Top Bar for the title of each page*/
+.Homepage{
+	margin-top: -10px;
+	margin-right: 60%;
+	margin-left: -60%;
+	background-color: #002366;
+    text-align: center;
+	position: fixed;
+    width: 200%;
+    height: 10%;
+	color: White;
+}
+/*Used to coordinate the validator images*/
+.CssValidators{
+	margin-top: -2.5%;
+	padding-left: 90%;
+
+	
+}
+.HTMLValidators{
+	padding-top: 30px;
+	padding-left: 95%
+}

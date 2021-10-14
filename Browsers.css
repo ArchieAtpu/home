@@ -1,0 +1,62 @@
+.Title{
+	font-weight:bold;
+}
+
+body{
+	font-size:25px;
+	background-color:#F0F8FF;
+	margin-left: 250px;
+	font-family: 'Times New Roman', serif;
+}
+.Menu{
+   background-color: #002385;
+    margin-top: -20px;
+    position: fixed; 
+    align-items: center;
+    width: 200px;
+    height: calc(100% - 100px); 
+	color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none; 
+    display: block; 
+    font-size: 30px;
+	margin-bottom: 20%;
+	margin-left: -250px;
+}
+.Button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block; 
+	background-color: #4169e1;
+	color: White; 
+	text-decoration: none;
+}
+.Text{
+	margin-top: 6%;
+}
+.Homepage{
+	margin-top: -5.2%;
+	margin-right: 60%;
+	margin-left: -60%;
+	position: fixed;
+	background-color: #002366;
+    text-align: center;
+    width: 200%;
+    height: 10%;
+	color: White;
+}
+.Text2{
+	margin-top: 3%;
+}
+	
+.CSS_Validators{
+	margin-top: -2.7%;
+	padding-left: 90%;
+
+	
+}
+.HTML_Validators{
+	margin-top: 0%;
+	margin-left: 85%
+}
